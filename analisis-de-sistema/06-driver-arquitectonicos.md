@@ -2,7 +2,7 @@
 
 | Driver | Problema que plantea | Decisión que responde |
 | :--- | :--- | :--- |
-| **DA01- Escalabilidad** | Aumentarán usuarios en campañas[cite: 3] | Monolito modular con posibilidad de escalamiento horizontal |
+| **DA01- Escalabilidad** | Aumentarán usuarios en campañas | Monolito modular con posibilidad de escalamiento horizontal |
 | **DA02- Rendimiento** | Habrá alta concurrencia | Incorporar caché y optimizar comunicación/procesamiento|
 | **DA03 -Seguridad** | Hay datos sensibles| Autenticación y autorización|
 | **DA04 - Pago externo** | Hay que comunicarse con una pasarela| Integración mediante API y adaptadores|
