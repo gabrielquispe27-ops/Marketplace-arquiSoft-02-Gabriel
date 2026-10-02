@@ -1,0 +1,1 @@
+![Diagrama de Estilo Arquitectónico](1.png)
